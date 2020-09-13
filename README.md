@@ -2,8 +2,6 @@
 
 It is a simple movie recommendation with content-based.
 It uses movie's title, genre, director, actors, and plot.
-
-
 I referred to this [page](https://towardsdatascience.com/how-to-build-from-scratch-a-content-based-movie-recommender-with-natural-language-processing-25ad400eb243).
 
 
